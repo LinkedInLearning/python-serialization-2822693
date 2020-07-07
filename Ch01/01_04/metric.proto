@@ -1,0 +1,11 @@
+// Metric in protocol buffers
+syntax = "proto3";
+package pb;
+import "google/protobuf/timestamp.proto";
+
+message Metric {
+    google.protobuf.Timestamp time = 1;
+    string name = 2;
+    double value = 3;
+    map<string, string> lables = 4;
+}
