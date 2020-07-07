@@ -2,3 +2,12 @@
 node_modules
 .tmp
 npm-debug.log
+
+# Python specific
+*.egg-info/
+*.py[cod]
+.pytest_cache/
+__pycache__/
+build/
+dist/
+venv/
