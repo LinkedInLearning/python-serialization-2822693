@@ -11,3 +11,13 @@ __pycache__/
 build/
 dist/
 venv/
+
+# Course output files
+Ch02/02_02/game.log
+Ch03/03_01/event.json
+Ch04/04_03/weather_pb2.py
+Ch04/04_05/weather_pb2.py
+Ch04/04_05/weather_pb2_grpc.py
+Ch05/05_02/config2.yml
+Ch05/05_04/logs.db
+Ch05/solution/ufo.db
