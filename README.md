@@ -1,7 +1,7 @@
-# COURSENAME
+# Python Serialization
 This is the repository for the LinkedIn Learning course [COURSENAME]. The full course is available from [LinkedIn Learning](LICOURSEURL).
 
-[![COURSENAME](COURSEIMAGE)](LICOURSEURL)
+[![Python Serialization](COURSEIMAGE)](LICOURSEURL)
 
 [COURSEDESCRIPTION]
 
@@ -14,6 +14,9 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
+    - Python 3.6+
+    - Requirements from `requirements.txt`, see install instructions in the file
 	- [list of requirements for course]
+    - `protoc` compiler from [here](https://developers.google.com/protocol-buffers/docs/downloads)
+    - Optional: [IPython](https://ipython.org/) (`python -m pip install ipython`)
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
