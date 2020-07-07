@@ -1,0 +1,20 @@
+// Weather data
+syntax = "proto3";
+
+package pb;
+import "google/protobuf/timestamp.proto";
+
+message Temperature {
+    google.protobuf.Timestamp time = 1;
+    string station = 2;
+    double value = 3; // celcius
+}
+
+message AddReply {
+    uint64 record_count = 1; // number of records
+}
+
+service Weather {
+    // Add a temperature reading
+    rpc AddTemperature(Temperature) returns (AddReply) {}
+}
