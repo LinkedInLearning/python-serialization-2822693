@@ -1,0 +1,2 @@
+city = 'Köln'
+query = 'Köln'
