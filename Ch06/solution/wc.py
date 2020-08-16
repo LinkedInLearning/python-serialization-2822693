@@ -10,7 +10,7 @@ def normalize(word):
 
 
 wc = Counter()
-with open('words.txt') as fp:
+with open('words.txt', encoding='utf-8') as fp:
     for word in fp:
         word = word.strip()
         wc[normalize(word)] += 1
