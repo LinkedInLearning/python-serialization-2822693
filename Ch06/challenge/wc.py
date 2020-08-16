@@ -3,7 +3,7 @@ from collections import Counter
 
 
 wc = Counter()
-with open('words.txt') as fp:
+with open('words.txt', encoding='utf-8') as fp:
     for word in fp:
         word = word.strip()
         wc[word] += 1
