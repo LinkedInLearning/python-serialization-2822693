@@ -7,7 +7,7 @@ chardet==3.0.4
 grpcio-tools==1.30.0
 msgpack==1.0.0
 protobuf==3.12.2
-PyYAML==5.3.1
+PyYAML==5.4
 
 # You will also need the protoc compiler from
 # https://developers.google.com/protocol-buffers/docs/downloads
