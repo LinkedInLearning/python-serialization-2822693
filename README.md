@@ -15,7 +15,6 @@ Some branches will have a beginning and an end state. These are marked with the 
 1. To use these exercise files, you must have the following installed:
     - Python 3.6+
     - Requirements from `requirements.txt`, see install instructions in the file
-	- [list of requirements for course]
     - `protoc` compiler from [here](https://developers.google.com/protocol-buffers/docs/downloads)
     - Optional: [IPython](https://ipython.org/) (`python -m pip install ipython`)
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
@@ -26,7 +25,7 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 _CEO at 353Solutions_
 
-Check out some of my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/miki-tebeka?u=104).
+Check out some of my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/miki-tebeka).
 
 [lil-course-url]: https://www.linkedin.com/learning/effective-serialization-with-python
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2822693/2822693-1598022021220-16x9.jpg
