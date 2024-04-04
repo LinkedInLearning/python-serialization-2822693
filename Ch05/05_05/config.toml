@@ -1,0 +1,13 @@
+# Application configuration
+
+[server]
+port = 8080
+
+# TLS
+use_tls = true
+cert_file = "/var/data/cert.pem"
+key_file = "/var/data/key.pem"
+
+[logging]
+level = "INFO"
+log_file = "/var/log/app.log"
