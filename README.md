@@ -28,4 +28,4 @@ _CEO at 353Solutions_
 Check out some of my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/miki-tebeka).
 
 [lil-course-url]: https://www.linkedin.com/learning/effective-serialization-with-python
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2822693/2822693-1598022021220-16x9.jpg
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHs0HmxLOZ-jg/learning-public-crop_675_1200/0/1714518682287?e=2147483647&v=beta&t=NXZukh3hm8NkHs4HQCfud_3PA2_f77RYN8f8X-UO1B4
